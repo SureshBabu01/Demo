@@ -1,0 +1,7 @@
+echo "welcome"
+
+echo "Hello, $(LOGNAME) Welcome to my script."
+echo "This script is running on host name : $(hostname)"
+
+
+ls script
